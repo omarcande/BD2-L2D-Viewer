@@ -701,6 +701,13 @@ export default {
     "cutscene": "cutscene_char003802",
     "dating": ""
   },
+  "003803": {
+    "charName": "Liberta",
+    "costumeName": "Miracle Rose",
+    "spine": "char003803",
+    "cutscene": "cutscene_char003803",
+    "dating": ""
+  },
   "003892": {
     "charName": "Liberta",
     "costumeName": "Hedonist",
@@ -759,6 +766,13 @@ export default {
     "costumeName": "Shattered Dream",
     "spine": "char004201",
     "cutscene": "cutscene_char004201",
+    "dating": ""
+  },
+  "004202": {
+    "charName": "Palette",
+    "costumeName": "Miracle Violet",
+    "spine": "char004202",
+    "cutscene": "",
     "dating": ""
   },
   "020001": {
@@ -843,6 +857,13 @@ export default {
     "costumeName": "Supreme God Archbishop",
     "spine": "char020901",
     "cutscene": "cutscene_char020901",
+    "dating": ""
+  },
+  "021001": {
+    "charName": "Ikaruga",
+    "costumeName": "Noble Flame",
+    "spine": "char021001",
+    "cutscene": "cutscene_char021001",
     "dating": ""
   },
   "060301": {
@@ -1292,6 +1313,13 @@ export default {
     "costumeName": "Night of Death",
     "spine": "char067801",
     "cutscene": "cutscene_char067801",
+    "dating": ""
+  },
+  "067803": {
+    "charName": "Mamonir",
+    "costumeName": "Miracle Marine",
+    "spine": "char067803",
+    "cutscene": "",
     "dating": ""
   },
   "minigame1": {

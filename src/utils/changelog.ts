@@ -1,5 +1,25 @@
 export default [
   {
+    "date": "23/04/2026",
+    "changes": [
+      "Added Liberta: Miracle Rose, Palette: Miracle Violet and Mamonir: Miracle Marine character icon.",
+      "Added Liberta: Miracle Rose, Palette: Miracle Violet and Mamonir: Miracle Marine standing animations.",
+      "Added Liberta: Miracle Rose ultimate animations.",
+      "As always, if you like my work and want to support me so I can keep working on adding more features and improving the site you can do so by donating in either my Ko-Fi or Patreon <3."
+    ]
+  },
+  {
+    "date": "09/04/2026",
+    "changes": [
+      "Added Ikaruga: Noble Flame character icon.",
+      "Added Ikaruga: Noble Flame standing animations.",
+      "Added Ikaruga: Noble Flame ultimate animations.",
+      "Updated Zenith: Stranger Bunny standing and ultimate animations.",
+      "Updated Helena: B-Rank Idol ultimate animations.",
+      "As always, if you like my work and want to support me so I can keep working on adding more features and improving the site you can do so by donating in either my Ko-Fi or Patreon <3."
+    ]
+  },
+  {
     "date": "26/03/2026",
     "changes": [
       "Added Helena: Rising Star and Mamonir: Night of Death character icons.",
